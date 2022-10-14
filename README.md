@@ -6,25 +6,25 @@ GitHub Favorites é uma aplicação para favoritar usuários do GitHub, exibindo
 Este projeto faz parte de um desafio do Nível 06 do programa de formação de desenvolvedores Explorer da [Rocketseat](https://www.rocketseat.com.br/). O layout da aplicação no Figma foi fornecido no material do curso.
 
 <p align="center">
-  <img width="" src="">
+  <img width="900px" src="/blob/main/screenshots/gitbub-favorites.gif">
 </p>
 
 ## Tabela de conteúdos
-[Status do projeto](#status-do-projeto)
-[License](#license)
-[Features](#features)
-[Tecnologias utilizadas](#tecnologias-utilizadas)
-[Conceitos aplicados](#conceitos-aplicados)
-[License](#license)
+- [Status do projeto](#status-do-projeto)
+- [License](#license)
+- [Features](#features)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Conceitos aplicados](#conceitos-aplicados)
+- [License](#license)
 
 ## Status do projeto
 ✅ Concluído
 
 ## Features
-[x] Busca e inclusão de favoritos
-[x] Remoção de favoritos
-[x] Alerta de usuário já cadastrado
-[x] Alerta de usuário inexistente
+- [x] Busca e inclusão de favoritos
+- [x] Remoção de favoritos
+- [x] Alerta de usuário já cadastrado
+- [x] Alerta de usuário inexistente
 
 ## Tecnologias utilizadas 
 - HTML5
