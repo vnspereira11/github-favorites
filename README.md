@@ -35,7 +35,7 @@ Este projeto faz parte de um desafio do Nível 06 do programa de formação de d
 - Manipulação da DOM
 - Criação de elementos HTML com JavaScript
 - Programação Orientada a Objetos - Classes e Herança
-- Métodos de Arrays JavaScript forEach() filter() find()
+- Métodos de Arrays JavaScript `forEach()` `filter()` `find()`
 - Conceito de imutabilidade de dados
 - Comunicação com a API do GitHub
 - Assincronismo e Promises JavaScript
