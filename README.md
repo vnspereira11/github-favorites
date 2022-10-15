@@ -18,7 +18,7 @@ Este projeto faz parte de um desafio do Nível 06 do programa de formação de d
 - [License](#license)
 
 ## Status do projeto
-✅ Concluído
+✅ Concluído. Acesse em [github-favorites-vnspereira11.vercel.app](github-favorites-vnspereira11.vercel.app).
 
 ## Features
 - [x] Busca e inclusão de favoritos
@@ -44,4 +44,7 @@ Este projeto faz parte de um desafio do Nível 06 do programa de formação de d
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+<p>
 Feito com 💪 por **Vanessa Pereira** 👋🏽 [Entre em contato!](https://www.linkedin.com/in/vanps/)
+</p>
